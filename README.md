@@ -39,10 +39,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## ENV
 
-create file .env.local in root project and set vars
+Create file .env.local in root project and set vars
 
 ```
 NEXT_PUBLIC_IP_API_KEY=
 API_KEY=
 CONTEXT_KEY=
 ```
+
+## Demo
+
+You can see demo deployment in Vercel [Google Clone](https://google-clone-nextjs13-theta.vercel.app/)
